@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Written, not Spoken. Broken.
-
 I may not know what exactly I am doing here, but I do know I will strive to be better than I was before, each day, each step.
 
-[![wrtnspknbrkn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joseph-DKE&show_icons=true&theme=synthwave&count_private=true)](https://github.com/Joseph-DKE/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joseph-DKE&theme=synthwave&count_private=true)](https://github.com/Joseph-DKE/github-readme-stats)
+[![wrtnspknbrkn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joseph-DKE&show_icons=true&theme=synthwave&count_private=true)](https://github.com/Joseph-DKE/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joseph-DKE&theme=synthwave&layout=compact)](https://github.com/Joseph-DKE/github-readme-stats)
+
+### wrtnspknbrkn
+**Written, not Spoken. Broken.**
