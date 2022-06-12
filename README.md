@@ -1,22 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Joseph-DKE/Joseph-DKE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Student Enterprise
+- 🌱 I’m currently learning FastAPI and Docker
+- 👯 I’m looking to collaborate on anything that involves APIs
+- 🤔 I’m looking for help with mobile application interface development
+- 💬 Ask me about Student Enterprise
+- 📫 How to reach me: Just check my details
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I like Anime and Games
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I may not know what exactly I am doing here, but I do know I will strive to be better than I was before, each day, each step.
 
-[![wrtnspknbrkn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joseph-DKE&show_icons=true&theme=synthwave&count_private=true)](https://github.com/Joseph-DKE/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joseph-DKE&theme=synthwave)](https://github.com/Joseph-DKE/github-readme-stats)
-
-### wrtnspknbrkn
-**Written, not Spoken. Broken.**
+[![Joseph-DKE's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joseph-DKE&show_icons=true&theme=synthwave&count_private=true)](https://github.com/Joseph-DKE/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joseph-DKE&theme=synthwave)](https://github.com/Joseph-DKE/github-readme-stats)
