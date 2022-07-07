@@ -6,8 +6,8 @@
   <hr>
 </div>
 <div>
-<p>  - 🔭 I’m currently working on Student Enterprise </p>
-<p>  - 🌱 I’m currently learning FastAPI and Docker </p>
+  <p>  - 🔭 I’m currently working on Student Enterprise: <b><a href="https://studentdeliverapi.vercel.app/">Student Deliver</a></b> </p>
+<p>  - 🌱 I’m currently learning 3D development, again! </p>
 <p>  - 👯 I’m looking to collaborate on anything that involves APIs </p>
 <p>  - 🤔 I’m looking for help with mobile application interface development </p>
 <p>  - 💬 Ask me about Student Enterprise </p>
