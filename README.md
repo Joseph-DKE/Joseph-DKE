@@ -1,28 +1,28 @@
 <div>
-  ### Hi there 👋
+  <h1> Hi there 👋</h1>
 </div>
 <div>
   <hr>
   <hr>
 </div>
 <div>
-  - 🔭 I’m currently working on Student Enterprise
-  - 🌱 I’m currently learning FastAPI and Docker
-  - 👯 I’m looking to collaborate on anything that involves APIs
-  - 🤔 I’m looking for help with mobile application interface development
-  - 💬 Ask me about Student Enterprise
-  - 📫 How to reach me: Just check my details
-  - 😄 Pronouns: He/Him
-  - ⚡ Fun fact: I like Anime and Games
+<p>  - 🔭 I’m currently working on Student Enterprise </p>
+<p>  - 🌱 I’m currently learning FastAPI and Docker </p>
+<p>  - 👯 I’m looking to collaborate on anything that involves APIs </p>
+<p>  - 🤔 I’m looking for help with mobile application interface development </p>
+<p>  - 💬 Ask me about Student Enterprise </p>
+<p>  - 📫 How to reach me: Just check my details </p>
+<p>  - 😄 Pronouns: He/Him </p>
+<p>  - ⚡ Fun fact: I like Anime and Games </p>
 </div>
 <div>
   <hr>
   <hr>
 </div>
-<div>
+<div><p>
   <img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Joseph-DKE" alt="Joseph-DKE" />
   <img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=Joseph-DKE&show_icons=true&locale=en" alt="Joseph-DKE" />
-</div>
-<div>
+  </p></div>
+<div><p>
   <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joseph-DKE&theme=synthwave" alt="Joseph-DKE" />
-</div>
+  </p></div>
