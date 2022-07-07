@@ -20,6 +20,5 @@ ________________________________________________________________________________
   <img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=Joseph-DKE&show_icons=true&locale=en" alt="Joseph-DKE" />
 </div>
 <div>
-
-  <img style="display: block; margin-left: auto; margin-right: auto; width: 50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joseph-DKE&theme=synthwave" alt="Joseph-DKE" />
+  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joseph-DKE&theme=synthwave" alt="Joseph-DKE" />
 </div>
