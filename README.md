@@ -20,7 +20,6 @@ ________________________________________________________________________________
   <img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=Joseph-DKE&show_icons=true&locale=en" alt="Joseph-DKE" />
 </div>
 <div>
-  <center>
-    <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joseph-DKE" alt="Joseph-DKE" />
-  </center>
+  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joseph-DKE&theme=synthwave" alt="Joseph-DKE" />
 </div>
