@@ -23,6 +23,6 @@
   <img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Joseph-DKE" alt="Joseph-DKE" />
   <img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=Joseph-DKE&show_icons=true&locale=en" alt="Joseph-DKE" />
   </p></div>
-<div><p style="text-align: center">
-  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joseph-DKE&theme=synthwave" alt="Joseph-DKE" />
+<div><p align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joseph-DKE&theme=synthwave" alt="Joseph-DKE" />
   </p></div>
