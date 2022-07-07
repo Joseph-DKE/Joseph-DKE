@@ -11,4 +11,7 @@ ________________________________________________________________________________
 - ⚡ Fun fact: I like Anime and Games
 _________________________________________________________________________________________________________________________________________________________________________
 _________________________________________________________________________________________________________________________________________________________________________
+<img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Joseph-DKE&" alt="Joseph-DKE" />
+<img align="center" width="49%"  src="https://github-readme-stats.vercel.app/api?username=Joseph-DKE&show_icons=true&locale=en" alt="Joseph-DKE" />
+
 [![Joseph-DKE's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joseph-DKE&show_icons=true&theme=synthwave&count_private=true)](https://github.com/Joseph-DKE/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joseph-DKE&theme=synthwave)](https://github.com/Joseph-DKE/github-readme-stats)
