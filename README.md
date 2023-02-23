@@ -6,7 +6,7 @@
   <hr>
 </div>
 <div>
-  <p>  - 🔭 I’m currently working on Student Enterprise: <b><a target="_blank" href="https://studentdeliver.studententerprisegh.com/">Student Deliver</a></b> and <b><a target="_blank" href="https://studententerprisegh.com/StudEnt-Token">StudEnt Token</a></b> </p>
+  <p>  - 🔭 I’m currently working on SentienTech: <b><a target="_blank" href="https://twitter.com/sentientech">SentienTech</a></b></p>
 <p>  - 🌱 I’m currently learning 3D development, again! </p>
 <p>  - 👯 I’m looking to collaborate on anything that involves APIs </p>
 <p>  - 🤔 I’m looking for help with mobile application interface development </p>
