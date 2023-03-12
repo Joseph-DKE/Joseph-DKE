@@ -7,12 +7,11 @@
 </div>
 <div>
   <p>  - 🔭 I’m currently working on SentienTech: <b><a target="_blank" href="https://twitter.com/sentientech">SentienTech</a></b></p>
-<p>  - 🌱 I’m currently learning 3D development, again! </p>
+<p>  - 🌱 I’m currently learning more about AI and Blockchain </p>
 <p>  - 👯 I’m looking to collaborate on anything that involves APIs </p>
 <p>  - 🤔 I’m looking for help with mobile application interface development </p>
-<p>  - 💬 Ask me about Student Enterprise </p>
+<p>  - 💬 Ask me about SentienTech </p>
 <p>  - 📫 How to reach me: Just check my details </p>
-<p>  - 😄 Pronouns: He/Him </p>
 <p>  - ⚡ Fun fact: I like Anime and Games </p>
 </div>
 <div>
